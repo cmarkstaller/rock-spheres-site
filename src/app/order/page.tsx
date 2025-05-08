@@ -15,7 +15,7 @@ export default function Order() {
             <div className="h-1 w-24 bg-gray-300 mx-auto mb-4 rounded-full" />
             <p className="text-gray-600">
               Fill out the form below to begin your custom rock sphere order.
-              We'll contact you with next steps.
+              We&apos;ll contact you with next steps.
             </p>
           </div>
 

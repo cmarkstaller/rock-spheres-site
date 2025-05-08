@@ -10,8 +10,8 @@ export default function Home() {
           Turn Your Rock Into Art
         </h1>
         <p className="text-xl text-gray-600 max-w-2xl mx-auto mb-8">
-          Send us your sentimental rock and we'll shape it into a one-of-a-kind
-          polished sphere—a timeless piece of personal art.
+          Send us your sentimental rock and we&apos;ll shape it into a
+          one-of-a-kind polished sphere—a timeless piece of personal art.
         </p>
         <Link
           href="/order"

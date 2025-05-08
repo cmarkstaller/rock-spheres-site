@@ -13,8 +13,8 @@ export default function Contact() {
             <h1 className="text-4xl font-bold mb-2">Contact Us</h1>
             <div className="h-1 w-24 bg-gray-300 mx-auto mb-4 rounded-full" />
             <p className="text-gray-600">
-              We'd love to hear from you. Fill out the form below and we'll get
-              back to you shortly.
+              We&apos;d love to hear from you. Fill out the form below and
+              we&apos;ll get back to you shortly.
             </p>
           </div>
 
